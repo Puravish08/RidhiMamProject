@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+
+<item
+    android:id="@+id/home"
+    android:title="Home"
+    android:orderInCategory="100"
+    />
+
+<item
+    android:id="@+id/favourite"
+    android:title="favourite"
+    app:showAsAction="never"
+    android:orderInCategory="101"
+    />
+
+<item
+    android:id="@+id/share"
+    android:title="Share"
+    android:orderInCategory="103"
+
+    />
+
+
+<item
+    android:id="@+id/setting"
+    android:title="Setting"
+    android:orderInCategory="104"
+    />
+
+
+    <item
+        android:id="@+id/privacy"
+        android:title="Privacy Policy"
+        android:orderInCategory="105"
+
+        />
+
+</menu>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:elevation="@dimen/_5sdp"
+        android:id="@+id/relayout"
+        android:layout_margin="@dimen/_8sdp" >
+
+        <ImageView
+            android:id="@+id/imgPhoto"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:scaleType="centerCrop"
+            android:src="@drawable/img" />
+
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="@dimen/_200sdp"
+            android:id="@+id/exciseNames"
+            android:textColor="@color/white"
+            tools:text="Demo Create"
+            android:gravity="center"
+            android:textSize="@dimen/_20sdp"
+            android:textStyle="bold"
+            android:padding="@dimen/_12sdp"
+
+            />
+    </RelativeLayout>
+
+
+
+
+</LinearLayout>

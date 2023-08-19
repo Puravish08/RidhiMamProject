@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Shayari Helper</string>
+    <string name="shayari">Shayari</string>
+    <string name="shayarienry">Badalana jaruri hai lakin achi habit ko nahi
+    hamari khami ko badlana chahiye
+    </string>
+    <string name="open_your_favourit_shayari">Open Your Shayari</string>
+
+
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="favourite">Favourite</string>
+
+</resources>

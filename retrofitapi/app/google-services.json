@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "148653252099",
+    "project_id": "retrofitapi-c1d2c",
+    "storage_bucket": "retrofitapi-c1d2c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:148653252099:android:dfa119efbe6f74a03ff836",
+        "android_client_info": {
+          "package_name": "com.example.retrofitapitester"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "148653252099-ofqnnamf38fp6dcmu191p95crb0s01km.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.retrofitapitester",
+            "certificate_hash": "558f4391889ac28c3ddba7832089290cec27d4b7"
+          }
+        },
+        {
+          "client_id": "148653252099-jp6n1tb41nhcdal53kvqi9pumm4ii5vc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6OQ63rgH8m6puoBRMwIhNV4r0uYqy39Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "148653252099-jp6n1tb41nhcdal53kvqi9pumm4ii5vc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

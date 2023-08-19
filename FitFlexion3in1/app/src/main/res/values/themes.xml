@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.FitFlexion3In1" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+         <item name="colorPrimary">#025d93</item>
+    </style>
+
+    <style name="Theme.FitFlexion3In1" parent="Base.Theme.FitFlexion3In1" />
+</resources>

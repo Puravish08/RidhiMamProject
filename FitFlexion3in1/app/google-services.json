@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "319082214161",
+    "project_id": "workout-app-7f151",
+    "storage_bucket": "workout-app-7f151.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:319082214161:android:2307c19183153686acd2b0",
+        "android_client_info": {
+          "package_name": "com.puravish.fitflexion_3in1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "319082214161-2a0rclbj8l5rk7n90mjmf8m3tq9e7snd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.puravish.fitflexion_3in1",
+            "certificate_hash": "16595e7b19ccb5c9187a1257c14190e4ed576f42"
+          }
+        },
+        {
+          "client_id": "319082214161-pbfb0cu2rvtmv8dccpu16sielqdc5res.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDi8RPAcsXEvSV8-rCh7AB_ol2lyZ9pZNQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "319082214161-pbfb0cu2rvtmv8dccpu16sielqdc5res.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
